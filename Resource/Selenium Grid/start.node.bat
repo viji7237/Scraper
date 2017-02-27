@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver=.\chromedriver.exe -jar .\selenium-server-standalone-3.0.1.jar -role node -nodeConfig .\node.config.json
